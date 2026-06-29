@@ -1,4 +1,4 @@
-# Fluidic ROCm Backbone
+# Fluidic-Equilibrium-Intelligence
 
 A compact hybrid language-model backbone that combines a parallel state-space memory path with closed-form continuous-time recurrence. The project targets memory-efficient sequence modeling and includes training, inference, and NF4 quantization tooling, with practical orientation toward AMD/ROCm-capable environments.
 
